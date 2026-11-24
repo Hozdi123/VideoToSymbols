@@ -5,3 +5,7 @@ Worked with OpenCvSharp and Ascii
 Preview:
 
 ![Preview](assets/IMG_2179.gif)
+
+to run try: cd "PATH"
+dotnet run
+and paste video and write fps
