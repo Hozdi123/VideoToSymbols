@@ -60,12 +60,11 @@ namespace VideoToAscii
         // Высота
         // Heigth
         int outputHeigth = (int)(outputWidth * aspectRatio * 0.5);
-        if  (outputHeigth > 67)
+        if  (outputHeigth > 63)
             {
-                outputHeigth = 67;
+                outputHeigth = 63;
             }
         Console.SetWindowSize(outputWidth, outputHeigth);
-
 
         using var frame = new Mat();
         using var resizedFrame = new Mat();

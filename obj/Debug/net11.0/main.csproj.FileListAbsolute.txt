@@ -18,3 +18,4 @@ C:\Users\ID-PC\Desktop\VSC_Scripts\cs_ascii\main\obj\Debug\net11.0\refint\main.d
 C:\Users\ID-PC\Desktop\VSC_Scripts\cs_ascii\main\obj\Debug\net11.0\main.pdb
 C:\Users\ID-PC\Desktop\VSC_Scripts\cs_ascii\main\obj\Debug\net11.0\main.genruntimeconfig.cache
 C:\Users\ID-PC\Desktop\VSC_Scripts\cs_ascii\main\obj\Debug\net11.0\ref\main.dll
+C:\Users\ID-PC\Desktop\VSC_Scripts\cs_ascii\main\obj\Debug\net11.0\main.sourcelink.json
