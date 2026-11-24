@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaqhQkeW1dU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ID-PC\\Desktop\\VSC_Scripts\\cs_ascii\\main\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ID-PC\\.nuget\\packages\\opencvsharp4\\4.13.0.20261107\\opencvsharp4.4.13.0.20261107.nupkg.sha512",
+    "C:\\Users\\ID-PC\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20261107\\opencvsharp4.runtime.win.4.13.0.20261107.nupkg.sha512"
+  ],
+  "logs": []
+}
